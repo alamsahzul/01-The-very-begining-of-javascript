@@ -7,7 +7,7 @@ function sum(){
         }
     }
 console.log('Total Sum: ',sum);
-}
+} 
 
 sum(1,2,7)
 sum(5,10,10,20,50)
